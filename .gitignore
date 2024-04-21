@@ -1,6 +1,6 @@
 # ignore all files in any directory named saved_models, data
-./saved_models/
-./data/
+saved_models/
+data/
 
 
 ./.git/objects/pack/pack-6fbc80256f137d4b8788dd7efe3b26c3c0d9eec2.pack
