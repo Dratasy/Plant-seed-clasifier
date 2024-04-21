@@ -1,4 +1,7 @@
-# ignore all files in any directory named saved_models
-./saved_models/
+# ignore all files in any directory named saved_models, data
+./saved_models
+./data
+
+
 ./.git/objects/pack/pack-6fbc80256f137d4b8788dd7efe3b26c3c0d9eec2.pack
 ./.git/objects/pack/pack-48ba969ed673646ee0faa5e047c088512e713e90.pack
